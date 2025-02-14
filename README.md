@@ -96,10 +96,5 @@ Se estiver enviando **muitos arquivos**, pode ser útil dividir os uploads em bl
 
 ---
 
-## 👨‍💻 Autor
-
-👤 **José Tenório Abs Junior**  
-📧 [Seu Email]  
-🏛 **IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados**  
 
 🚀 **Agora você pode gerenciar seus arquivos na nuvem!** Qualquer dúvida, me avise! 😊
